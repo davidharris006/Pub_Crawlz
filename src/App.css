@@ -18,6 +18,13 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.mainbox {
+  background: url("./Images/Daybrew.jpg");
+  background-size: cover;
+  background-position-y: -225px;
+  background-repeat: no-repeat;
+  height: 475px;
+}
 
 .App-link {
   color: #61dafb;
